@@ -70,6 +70,9 @@ class _MyHomePageState extends State<MyHomePage> {
             const SizedBox(
               height: 25.0,
             ),
+
+
+            //FUNCTION FOR GENERATING ANSWER
             InkWell(
               onTap: () {
                 //PROBABILITTY OF EVENT
